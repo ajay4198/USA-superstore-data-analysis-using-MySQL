@@ -1,1 +1,1 @@
-# USA-superstore-data-analysis-using-MySQL
+# USA-superstores-data-analysis-using-MySQL
